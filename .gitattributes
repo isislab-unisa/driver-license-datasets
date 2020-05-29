@@ -3,3 +3,4 @@
 driverLicense_Lazio.zip filter=lfs diff=lfs merge=lfs -text
 driverLicense_Piemonte.zip filter=lfs diff=lfs merge=lfs -text
 driverLicense_Puglia.zip filter=lfs diff=lfs merge=lfs -text
+driverLicense_Sicilia.zip filter=lfs diff=lfs merge=lfs -text
