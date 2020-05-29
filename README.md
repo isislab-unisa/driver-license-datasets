@@ -23,7 +23,6 @@ However, in January, 2020 the Italian Ministry modified the actual available ver
 | data_scadenza               | expiry date                 | date (AAAA-MM-DD HH:MM:SS)                                                                             | Date of the license expiry **_NOTE_**: the time is empty                                                      |
 | stato_estero_primo_rilascio | foreign state first release | string                                                                                                 | Foreing state first license release (if any)                                                                  |
 | punti_patente               | License points              | Number                                                                                                 | Number of license points                                                                                      |
-|-----------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 
 ## Dataset format
 
